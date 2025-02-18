@@ -1,0 +1,24 @@
+html {
+  scroll-behavior: smooth;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* space-y-default */
+
+.space-y-default {
+  padding-block: 3rem;
+}
+
+/* space-x-default */
+
+.space-x-default {
+  padding-block: 1.5rem;
+}
+
+.slick-slide > div {
+  padding: 0.5rem;
+}
