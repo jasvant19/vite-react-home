@@ -22,3 +22,8 @@ img {
 .slick-slide > div {
   padding: 0.5rem;
 }
+
+
+body {
+  border: 1px solid #f00;
+}
